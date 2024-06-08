@@ -1,0 +1,18 @@
+#dashboard {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#restaurants, #menu, #order {
+    margin: 20px 0;
+}
+
+h2 {
+    text-align: center;
+}
+
+.restaurant, .menu-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+}
