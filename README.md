@@ -6,6 +6,7 @@ Welcome to the Online Food Ordering System! This project is a comprehensive solu
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Usage](#usage)
 
 ## Introduction
 
@@ -28,3 +29,9 @@ The Online Food Ordering System is designed to streamline the process of orderin
 - **Database**: MySQL
 - **Build System**: CMake
 - **Version Control**: Git
+
+## Usage
+
+- **User Interface**: Users can register, log in, browse restaurants, view menus, add items to their cart, and place orders.
+- **Restaurant Management**: Restaurant owners can manage their menus and view incoming orders.
+- **Database Management**: Ensure the MySQL database is properly configured and backed up regularly to maintain data integrity.
